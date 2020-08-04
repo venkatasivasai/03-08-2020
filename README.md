@@ -30,6 +30,7 @@ __This is also bold.__
 
 <! for images>
 
-<![alt text]
+<![alt text](sai_.jpg)
 
+[Google](https://www.google.com)
  
